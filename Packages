@@ -8,7 +8,7 @@ Author: sourcelocation
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
 Filename: debs/ovh.exerhythm.stillwatching_1.0_iphoneos-arm
-Size: 25514
+Size: 25500
 MD5sum: 142124df178d7bd6f0f132b49133a9f4
 SHA1: 7d2da539cd756ea3109807c2431900c1a98fac0c
 SHA256: e86eb98aafef8da396a33fe76ae62ce7a571b4dcb3d76b85cfdcc3bb3f979c2a
