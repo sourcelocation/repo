@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-      "url": "https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/screenshots/stillwatching.jpeg",
+      "url": "https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/screenshots/speedruntime.jpeg",
       "title": "StillWatching?",
       "package": "ovh.exerhythm.stillwatching",
       "hideShadow": false
