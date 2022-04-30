@@ -7,7 +7,7 @@ Maintainer: sourcelocation
 Author: sourcelocation
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
-Filename: debs/ovh.exerhythm.stillwatching_1.0_iphoneos-arm
+Filename: debs/ovh.exerhythm.stillwatching_1.0_iphoneos-arm.deb
 Size: 33908
 MD5sum: f8ff68cad3f108022c60b7c978410982
 SHA1: fbbcbf2b804ab5ff61d881902221baf1ce45bd6e
