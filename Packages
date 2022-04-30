@@ -7,11 +7,11 @@ Maintainer: sourcelocation
 Author: sourcelocation
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
-Filename: debs/ovh.exerhythm.stillwatching_1.0_iphoneos-arm.deb
-Size: 25296
-MD5sum: 8b18edbd35b41e57b75853b7667d694b
-SHA1: 242550cdf66978ebb812354d934c2c8b308465bd
-SHA256: 1e88700a994b813b71a8a3f9f6fde95db09335d10f72953bc359e6b78e6471b9
+Filename: debs/ovh.exerhythm.stillwatching_1.0_iphoneos-arm
+Size: 25514
+MD5sum: 410e4637adb3f8d604fe08366f19758f
+SHA1: 3ce04989a95f5e1e3d5df800aa0b74f93d692ede
+SHA256: 0eae169accb70d524237ed1b16bf16a7605348c1f0953a225d1c323faf66aa89
 
 Package: ovh.exerhythm.batterain
 Architecture: iphoneos-arm
@@ -20,7 +20,7 @@ Section: Tweaks
 Maintainer: ExeRhythm
 Installed-Size: 164
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debians/ovh.exerhythm.batterain.deb
+Filename: debs/ovh.exerhythm.batterain.deb
 Size: 18586
 MD5sum: f9f956db95049945e026fa8de161a658
 SHA1: c521d9fc8c62034ae974ed783a8c34cfe815afb9
@@ -37,7 +37,7 @@ Section: Tweaks
 Maintainer: ExeRhythm
 Installed-Size: 196
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
-Filename: ./debians/ovh.exerhythm.minusx.deb
+Filename: debs/ovh.exerhythm.minusx.deb
 Size: 20816
 MD5sum: 089b775b1655a30c1156ba9a71e94b6c
 SHA1: 845bcf685450514c71a98f894d22ce93d1b7f371
@@ -54,7 +54,7 @@ Section: Tweaks
 Maintainer: ExeRhythm
 Installed-Size: 200
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debians/ovh.exerhythm.speedruntime.deb
+Filename: debs/ovh.exerhythm.speedruntime.deb
 Size: 22418
 MD5sum: 66e24d021b263933a5fd5cb87311f0ff
 SHA1: 29142641112944eeb3fd31ed5ff9388a92eb85b0
@@ -71,7 +71,7 @@ Section: Tweaks
 Maintainer: ExeRhythm
 Installed-Size: 164
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debians/ovh.exerhythm.transparentdock.deb
+Filename: debs/ovh.exerhythm.transparentdock.deb
 Size: 16504
 MD5sum: a8c50eca855f123c33cc39936ab20972
 SHA1: b07fa22f6a286a6392e63825fa8c08d466955a4d
@@ -80,6 +80,4 @@ SHA512: 2d9e369da2de4cf0d5d8d8c2c6d7615937bdff405fd4c4d648718304b988545f02247a0f
 Description: An open-source tweak to hide the Dock background.
 Name: TransparentDock
 Author: ExeRhythm
-Depiction: https://www.exerhythm.ovh/repo/depictions/web/?p=ovh.exerhythm.transparentdock
-SileoDepiction: https://www.exerhythm.ovh/repo/depictions/native/ovh.exerhythm.transparentdock/depiction.json
 
