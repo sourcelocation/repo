@@ -1,0 +1,37 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+      "url": "https://github.com/sourcelocation/repo/blob/master/screenshots/stillwatching.png?raw=true",
+      "title": "StillWatching?",
+      "package": "ovh.exerhythm.stillwatching",
+      "hideShadow": false
+    },
+    {
+      "url": "https://github.com/sourcelocation/repo/blob/master/screenshots/speedruntime.png?raw=true",
+      "title": "SpeedrunTime",
+      "package": "ovh.exerhythm.speedruntime",
+      "hideShadow": false
+    },
+    {
+      "url": "https://github.com/sourcelocation/repo/blob/master/screenshots/batterain.png?raw=true",
+      "title": "Batterain",
+      "package": "ovh.exerhythm.batterain",
+      "hideShadow": false
+    },
+    {
+      "url": "https://github.com/sourcelocation/repo/blob/master/screenshots/minusx.png?raw=true",
+      "title": "MinusX",
+      "package": "ovh.exerhythm.minusx",
+      "hideShadow": false
+    },
+    {
+      "url": "https://github.com/sourcelocation/repo/blob/master/screenshots/transparentdock.png?raw=true",
+      "title": "TransparentDock",
+      "package": "ovh.exerhythm.transparentdock",
+      "hideShadow": false
+    }
+  ]
+}
