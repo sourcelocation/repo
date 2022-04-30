@@ -9,10 +9,10 @@ Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
 Filename: debs/ovh.exerhythm.stillwatching_1.0_iphoneos-arm
 Size: 25514
-MD5sum: 410e4637adb3f8d604fe08366f19758f
-SHA1: 3ce04989a95f5e1e3d5df800aa0b74f93d692ede
-SHA256: 0eae169accb70d524237ed1b16bf16a7605348c1f0953a225d1c323faf66aa89
-Icon: 
+MD5sum: 09e9b281b57e46f69eab187caf05a254
+SHA1: 3d0d89b7f22239aa6f1b63d34599b5f0f80e1495
+SHA256: 2dc9aac8eaa8ef451c0b0223bd007974dbc844f42b37bd4585f5121f880f9dc2
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/stillwatching.png
 
 Package: ovh.exerhythm.batterain
 Architecture: iphoneos-arm
