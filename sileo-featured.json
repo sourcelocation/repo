@@ -4,31 +4,31 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-      "url": "https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/screenshots/speedruntime.jpeg",
+      "url": "https://github.com/sourcelocation/repo/raw/gh-pages/screenshots/speedruntime.png",
       "title": "StillWatching?",
       "package": "ovh.exerhythm.stillwatching",
       "hideShadow": false
     },
     {
-      "url": "https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/screenshots/speedruntime.jpeg",
+      "url": "https://github.com/sourcelocation/repo/raw/gh-pages/screenshots/speedruntime.png",
       "title": "SpeedrunTime",
       "package": "ovh.exerhythm.speedruntime",
       "hideShadow": false
     },
     {
-      "url": "https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/screenshots/batterain.jpeg",
+      "url": "https://github.com/sourcelocation/repo/raw/gh-pages/screenshots/batterain.png",
       "title": "Batterain",
       "package": "ovh.exerhythm.batterain",
       "hideShadow": false
     },
     {
-      "url": "https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/screenshots/minusx.jpeg",
+      "url": "https://github.com/sourcelocation/repo/raw/gh-pages/screenshots/minusx.png",
       "title": "MinusX",
       "package": "ovh.exerhythm.minusx",
       "hideShadow": false
     },
     {
-      "url": "https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/screenshots/transparentdock.jpeg",
+      "url": "https://github.com/sourcelocation/repo/raw/gh-pages/screenshots/transparentdock.png",
       "title": "TransparentDock",
       "package": "ovh.exerhythm.transparentdock",
       "hideShadow": false
