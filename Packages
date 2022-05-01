@@ -1,3 +1,19 @@
+Package: ovh.exerhythm.prefcleaner
+Name: PrefCleaner
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: dpkg, uikittools, ${LIBSWIFT}, firmware (>= 11.0)
+Description: Simplest way to remove tweak preferences
+Maintainer: sourcelocation
+Author: sourcelocation
+Section: Utility
+Filename: debs/ovh.exerhythm.prefcleaner_1.0_iphoneos-arm.deb
+Size: 510000
+MD5sum: e81b1f0a26684a41d01602e42eb29dd2
+SHA1: 5a62085bc256d6daf7d69cba2ff4084e080e8402
+SHA256: 2cda0d7674132563dd806d21b619f61da27317d463c32a4cb512a50d7fa26f85
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/prefcleaner.png
+
 Package: ovh.exerhythm.stillwatching
 Name: StillWatching?
 Version: 1.0
@@ -12,7 +28,7 @@ Size: 33908
 MD5sum: f8ff68cad3f108022c60b7c978410982
 SHA1: fbbcbf2b804ab5ff61d881902221baf1ce45bd6e
 SHA256: 750069620fe876326f0f0737ce7aabc51565a60a38d03f49c40e039e7dccc4f2
-Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/stillwatching.png
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/stillwatching.png
 
 Package: ovh.exerhythm.batterain
 Architecture: iphoneos-arm
@@ -30,7 +46,7 @@ SHA512: 184c58963a7fcead6606d13d15c9e85670c507b25699bcc8906b91fef953487037e9ca39
 Description: An open-source tweak to color the battery icon
 Name: Batterain
 Author: ExeRhythm
-Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/batterain.png
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/batterain.png
 
 Package: ovh.exerhythm.minusx
 Architecture: iphoneos-arm
@@ -48,7 +64,7 @@ SHA512: 42cb007fb3082f1317a09afdbf3b2acd7abc0d781f666a1a531c338a971b8c1088e148ff
 Description: Brings back the X buttons when deleting apps
 Name: MinusX
 Author: ExeRhythm
-Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/minusx.png
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/minusx.png
 
 Package: ovh.exerhythm.speedruntime
 Architecture: iphoneos-arm
@@ -66,7 +82,7 @@ SHA512: d77acff1ced470b972171832b768044fb0acc5b5b640704a7e07c54a1f06f49ffef58edf
 Description: Shows a popup when a device reaches 1% battery... not in a usual way
 Name: SpeedrunTime
 Author: ExeRhythm
-Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/speedruntime.png
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/speedruntime.png
 
 Package: ovh.exerhythm.transparentdock
 Architecture: iphoneos-arm
@@ -84,5 +100,5 @@ SHA512: 2d9e369da2de4cf0d5d8d8c2c6d7615937bdff405fd4c4d648718304b988545f02247a0f
 Description: An open-source tweak to hide the Dock background.
 Name: TransparentDock
 Author: ExeRhythm
-Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/transparentdock.png
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/transparentdock.png
 
