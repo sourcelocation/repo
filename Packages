@@ -16,15 +16,15 @@ Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/
 
 Package: ovh.exerhythm.stillwatching
 Name: StillWatching?
-Version: 1.1
+Version: 1.1.1
 Architecture: iphoneos-arm
 Description: Asks you if you have fallen asleep.
 Maintainer: sourcelocation
 Author: sourcelocation
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
-Filename: debs/ovh.exerhythm.stillwatching_1.1_iphoneos-arm.deb
-Size: 33500
+Filename: debs/ovh.exerhythm.stillwatching_1.1.1_iphoneos-arm.deb
+Size: 35110
 Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/stillwatching.png
 
 Package: ovh.exerhythm.batterain
