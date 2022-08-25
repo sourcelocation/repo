@@ -99,3 +99,22 @@ Name: TransparentDock
 Author: ExeRhythm
 Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/transparentdock.png
 
+Package: net.sourceloc.statustimeformatter
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: sourcelocation
+Installed-Size: 180
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/net.sourceloc.statustimeformatter_1.0_iphoneos-arm.deb
+Size: 17038
+MD5sum: 2d94fc604f6d3f36f041828d7fbd6657
+SHA1: 9ff23853aa994b652cb23934f661c3ca0b65996a
+SHA256: bae44ee839eee2ecdfd40d0c98d545e2d27e339906f486ec6bf019fd2546e1ac
+SHA512: 26075df8c8c4d96851cea0a459185e8348db8184eee917346edb49fa1df56d1d6ce5ad6a2fb279f76558b0268a5b859983e355899f1898a99c2c11e590d4301b
+Description: Change the time label to show current date
+Name: StatusTimeFormatter
+Author: sourcelocation
+Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/statustimeformatter.png
+
+
