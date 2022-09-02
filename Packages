@@ -118,3 +118,21 @@ Author: sourcelocation
 Icon: https://raw.githubusercontent.com/sourcelocation/repo/gh-pages/tweakicons/statustimeformatter.png
 
 
+
+Package: net.sourceloc.gameshut
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: sourcelocation
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/net.sourceloc.gameshut_1.0_iphoneos-arm.deb
+Size: 16646
+MD5sum: 3858f62230ac3c915f300c664312c63f
+SHA1: 8843d7f92416211de9ebb963ff4ce28125932878
+SHA256: c3ab8ff13720e8ad9047dd39466b3c8974e592c2fa383d4a3960714caef0c4f2
+SHA512: 0a50261ebd1a390fed2bf326f2673c145582a6342d523204973d0219337f81616a8069b012587cf5635f6925f1b56c360230c19b273500ee013e030601bf2425
+Description: Kaboom GameCenter Notification
+Name: GameShut
+Author: sourcelocation
+
