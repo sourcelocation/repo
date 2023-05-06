@@ -1,1 +1,94 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/repo/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Web site created using create-react-app"/><link rel="apple-touch-icon" href="/repo/logo192.png"/><link rel="manifest" href="/repo/manifest.json"/><title>sourcelocation</title><script defer="defer" src="/repo/static/js/main.db4d3458.js"></script><link href="/repo/static/css/main.073c9b0a.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>sourcelocation repo</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+  <script type="text/javascript" src="https://livejs.com/live.js"></script>
+  <style>
+    body {
+      background: #1a1e23;
+      margin: 0;
+    }
+
+    #center {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #pm {
+      border-radius: 20%;
+    }
+
+    h1 {
+      font-family: "Quicksand", sans-serif;
+      font-size: 50px;
+      color: lightgray;
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 0px;
+      cursor: pointer;
+    }
+
+    p {
+      font-family: "Quicksand", sans-serif;
+      font-size: 20px;
+      color: lightgray;
+      text-align: center;
+    }
+
+    .verticallinebreak {
+      border-left: 1px solid rgba(211, 211, 211, 0.46);
+      height: 30px;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+
+    .packagemanager {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+    }
+
+    .packagemanager a img:hover {
+      transform: scale(1.1);
+    }
+
+    .pfp {
+      border-radius: 20%;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="center">
+    <img class="pfp" src="CydiaIcon.png" alt="CydiaIcon" width="100" height="100">
+    <h1 style="color: #fff;">sourcelocation's repo</h1>
+    <p style="color: #fff;">A place with all of my open-source tweaks. Free forever.<br/><br/>(Credits: palera1n)</p>
+  </div>
+
+  <div>
+    <div class="packagemanager">
+      <a href="sileo://source/https://sourcelocation.github.io/repo" target="_blank"><img id="pm" src="sileo.png"
+          alt="sileo" width="32" height="32"></a>
+      <div class="verticallinebreak"></div>
+      <a href="zbra://sources/add/https://sourcelocation.github.io/repo" target="_blank"><img id="pm" src="zbra.png"
+          alt="zbra" width="32" height="32"></a>
+    </div>
+  </div>
+</body>
+
+</html>
