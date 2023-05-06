@@ -1,0 +1,8 @@
+Architectures: iphoneos-arm iphoneos-arm64
+Codename: ios
+Components: main
+Description: A repo for those who love Swift
+Label: sourcelocation's repo
+Origin: sourcelocation's repo
+Suite: stable
+Version: 1.0

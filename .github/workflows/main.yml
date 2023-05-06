@@ -1,0 +1,22 @@
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  repo:
+    name: Rebuild repo
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Regen Repo
+        run: |
+          ./repo.sh
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v7.0.0
+        with:
+          message: 'Repo update'
