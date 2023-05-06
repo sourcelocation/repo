@@ -14,6 +14,22 @@ Description: Kaboom gamecenter notifs
 Author: sourcelocation
 Name: GameShut
 
+Package: net.sourceloc.pinanim
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: sourcelocation
+Installed-Size: 604
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: debs/net.sourceloc.pinanim_2.0_iphoneos-arm.deb
+Size: 77234
+MD5sum: b3c82ec74e9ddb51b0062a5793d23101
+SHA1: 2ac90984d8d535eaecdf7320cdfca34a3de7fa61
+SHA256: 5a9741ba68bf155fe87c74ed83f6751052c33fb5418def81fe46d5c3aa2c5ab2
+Section: Tweaks
+Description: Animations for Pin dots
+Author: sourcelocation
+Name: PinAnim
+
 Package: net.sourceloc.statustimeformatter
 Version: 1.0
 Architecture: iphoneos-arm
