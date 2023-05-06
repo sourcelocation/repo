@@ -5,8 +5,8 @@ cd $script_full_path || exit 1
 rm Packages Packages.bz2 Packages.xz Packages.zst
 
 echo "[Repository] Appending debs to Packages..."
-dpkg-scanpackages debs/iphoneos-arm /dev/null | gzip -9c > Packages-iphoneos-arm
-dpkg-scanpackages debs/iphoneos-arm64 /dev/null | gzip -9c > Packages-Packages-iphoneos-arm64
+dpkg-scanpackages debs/iphoneos-arm /dev/null > Packages-iphoneos-arm
+dpkg-scanpackages debs/iphoneos-arm64 /dev/null > Packages-Packages-iphoneos-arm64
 
 cat Packages-iphoneos-arm Packages-iphoneos-arm64 > Packages
 
