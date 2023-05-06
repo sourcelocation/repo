@@ -144,3 +144,35 @@ Depiction: https://www.exerhythm.ovh/repo/depictions/web/?p=ovh.exerhythm.transp
 Name: TransparentDock
 Sileodepiction: https://www.exerhythm.ovh/repo/depictions/native/ovh.exerhythm.transparentdock/depiction.json
 
+Package: net.sourceloc.pinanim
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: sourcelocation
+Installed-Size: 604
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), com.ginsu.comet
+Filename: debs/iphoneos-arm64/net.sourceloc.pinanim_2.0_iphoneos-arm64.deb
+Size: 77214
+MD5sum: 755dd01dd0dde32ac06fde4b2de2e68d
+SHA1: 0459ea5f4c5b5a5d58987b353e06896ef720efaa
+SHA256: 1f5e8da87fbb6144c431ce3b77d56c574050962b8fd5d7796470130505d1e4b1
+Section: Tweaks
+Description: Animations for Pin dots
+Author: sourcelocation
+Name: PinAnim
+
+Package: ovh.exerhythm.speedruntime
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: sourcelocation
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/ovh.exerhythm.speedruntime_1.2_iphoneos-arm64.deb
+Size: 19898
+MD5sum: b54953fb867dc3fa13437c9218699454
+SHA1: 677152b2898a932034114aecb5be95c90a8043de
+SHA256: 93027e6483b96ce7c35d491ba0b3cea31a78902dad4af79e8c5e4372e1a5a164
+Section: Tweaks
+Description: Shows a popup when a device reaches 1% battery... not in a usual way
+Author: sourcelocation
+Name: SpeedrunTime
+
