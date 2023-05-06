@@ -1,0 +1,130 @@
+Package: net.sourceloc.gameshut
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: sourcelocation
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/net.sourceloc.gameshut_1.0_iphoneos-arm.deb
+Size: 16646
+MD5sum: d5b9d806030080d16ac062c34d75bbef
+SHA1: bfa884ed5087b68d7daf57c24af3824a1c94ebe6
+SHA256: 1a30f5bd374540cc4a7f4fe11974d670359cfc69080c12ecc595dfe7e6d62bc7
+Section: Tweaks
+Description: Kaboom gamecenter notifs
+Author: sourcelocation
+Name: GameShut
+
+Package: net.sourceloc.statustimeformatter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: sourcelocation
+Installed-Size: 180
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/net.sourceloc.statustimeformatter_1.0_iphoneos-arm.deb
+Size: 17038
+MD5sum: 2d94fc604f6d3f36f041828d7fbd6657
+SHA1: 9ff23853aa994b652cb23934f661c3ca0b65996a
+SHA256: bae44ee839eee2ecdfd40d0c98d545e2d27e339906f486ec6bf019fd2546e1ac
+Section: Tweaks
+Description: Change the time label to show current date
+Author: sourcelocation
+Name: StatusTimeFormatter
+
+Package: ovh.exerhythm.batterain
+Version: 1.1-1
+Architecture: iphoneos-arm
+Maintainer: ExeRhythm
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/ovh.exerhythm.batterain.deb
+Size: 18586
+MD5sum: f9f956db95049945e026fa8de161a658
+SHA1: c521d9fc8c62034ae974ed783a8c34cfe815afb9
+SHA256: 33432df816aa6a4529c5d53597dc16528b625a9e3823ac392cc144debb1a8d95
+Section: Tweaks
+Description: An open-source tweak to color the battery icon
+Author: ExeRhythm
+Name: Batterain
+
+Package: ovh.exerhythm.minusx
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: ExeRhythm
+Installed-Size: 196
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0)
+Filename: debs/ovh.exerhythm.minusx.deb
+Size: 20816
+MD5sum: 089b775b1655a30c1156ba9a71e94b6c
+SHA1: 845bcf685450514c71a98f894d22ce93d1b7f371
+SHA256: 8e120c8b844e6e3ff9e718deef0c2b571318bf6559c61404311ec199b3b50421
+Section: Tweaks
+Description: Brings back the X buttons when deleting apps
+Author: ExeRhythm
+Name: MinusX
+
+Package: ovh.exerhythm.prefcleaner
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: sourcelocation
+Installed-Size: 704
+Depends: dpkg, uikittools, org.swift.libswift (>= 5.0), firmware (>= 11.0)
+Filename: debs/ovh.exerhythm.prefcleaner_1.0_iphoneos-arm.deb
+Size: 510308
+MD5sum: e81b1f0a26684a41d01602e42eb29dd2
+SHA1: 5a62085bc256d6daf7d69cba2ff4084e080e8402
+SHA256: 2cda0d7674132563dd806d21b619f61da27317d463c32a4cb512a50d7fa26f85
+Section: Utility
+Description: Simplest way to remove tweak preferences
+Author: sourcelocation
+Name: PrefCleaner
+
+Package: ovh.exerhythm.speedruntime
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: ExeRhythm
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/ovh.exerhythm.speedruntime_1.1_iphoneos-arm64.deb
+Size: 19896
+MD5sum: 3fcdd618b341d2f242a9ba96cb76e32d
+SHA1: 78e6f5983268887e5440ee059a47ef682201a1fc
+SHA256: 373f31c2e0e0685968c3e499f57947452e4107e08e76cfa66e045efb4b15ec14
+Section: Tweaks
+Description: Shows a popup when a device reaches 1% battery... not in a usual way
+Author: ExeRhythm
+Name: SpeedrunTime
+
+Package: ovh.exerhythm.stillwatching
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: sourcelocation
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Filename: debs/ovh.exerhythm.stillwatching_1.1.1_iphoneos-arm.deb
+Size: 35110
+MD5sum: 5f26824036f727e38dfa26346c734649
+SHA1: c73036c1077f0557a25fd67b60f547ba804b9caa
+SHA256: 761074e04cc9c60816bcced0352850f99e6d6cb5717d2f3562fe55690e5b2625
+Section: Tweaks
+Description: Asks you if you have fallen asleep.
+Author: sourcelocation
+Name: StillWatching?
+
+Package: ovh.exerhythm.transparentdock
+Version: 1.0-6
+Architecture: iphoneos-arm
+Maintainer: ExeRhythm
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/ovh.exerhythm.transparentdock.deb
+Size: 16504
+MD5sum: a8c50eca855f123c33cc39936ab20972
+SHA1: b07fa22f6a286a6392e63825fa8c08d466955a4d
+SHA256: fd700e7d75317dacf3f85d163c38c4761661ce979e689f5384f59bcd15348f86
+Section: Tweaks
+Description: An open-source tweak to hide the Dock background.
+Author: ExeRhythm
+Depiction: https://www.exerhythm.ovh/repo/depictions/web/?p=ovh.exerhythm.transparentdock
+Name: TransparentDock
+Sileodepiction: https://www.exerhythm.ovh/repo/depictions/native/ovh.exerhythm.transparentdock/depiction.json
+
