@@ -95,19 +95,19 @@ Author: sourcelocation
 Name: PrefCleaner
 
 Package: ovh.exerhythm.speedruntime
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
-Maintainer: ExeRhythm
+Maintainer: sourcelocation
 Installed-Size: 232
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/ovh.exerhythm.speedruntime_1.1_iphoneos-arm64.deb
-Size: 19896
-MD5sum: 3fcdd618b341d2f242a9ba96cb76e32d
-SHA1: 78e6f5983268887e5440ee059a47ef682201a1fc
-SHA256: 373f31c2e0e0685968c3e499f57947452e4107e08e76cfa66e045efb4b15ec14
+Filename: debs/ovh.exerhythm.speedruntime_1.2_iphoneos-arm64.deb
+Size: 19898
+MD5sum: b54953fb867dc3fa13437c9218699454
+SHA1: 677152b2898a932034114aecb5be95c90a8043de
+SHA256: 93027e6483b96ce7c35d491ba0b3cea31a78902dad4af79e8c5e4372e1a5a164
 Section: Tweaks
 Description: Shows a popup when a device reaches 1% battery... not in a usual way
-Author: ExeRhythm
+Author: sourcelocation
 Name: SpeedrunTime
 
 Package: ovh.exerhythm.stillwatching
